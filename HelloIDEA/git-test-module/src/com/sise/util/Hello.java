@@ -11,6 +11,7 @@ public class Hello {
         System.out.println("Hello Git!");
         System.out.println("Hello GGit!");
         System.out.println("Hello GGGit!");
+        System.out.println("Hello GGGGit!");
     }
     public void test(){
         System.out.println("Hello GGGit!");
