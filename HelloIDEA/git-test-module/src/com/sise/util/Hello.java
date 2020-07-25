@@ -10,6 +10,7 @@ public class Hello {
         System.out.println("Hello Git!");
         System.out.println("Hello Git!");
         System.out.println("Hello GGit!");
+        System.out.println("Hello GGGit!");
     }
     public void test(){
         System.out.println("Hello GGGit!");
